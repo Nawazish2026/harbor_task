@@ -1,0 +1,12 @@
+[
+  {"name": "Alice", "age": 35, "active": true},
+  {"name": "Bob", "age": 28, "active": false},
+  {"name": "Charlie", "age": 22, "active": true},
+  {"name": "Diana", "age": 40, "active": true},
+  {"name": "Eve", "age": 19, "active": false},
+  {"name": "Frank", "age": 31, "active": true},
+  {"name": "Grace", "age": 27, "active": true},
+  {"name": "Hank", "age": 45, "active": false},
+  {"name": "Ivy", "age": 23, "active": true},
+  {"name": "Jack", "age": 38, "active": true}
+]
